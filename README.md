@@ -1,4 +1,4 @@
-# Bash file for Infraestructure
+# Bash file for Infraestructure(Web Server)
     Proposed exercise at Linux Experience course by DIO.
 
 ## Tasks
